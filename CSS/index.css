@@ -303,3 +303,7 @@ body {
   width: 100%;
   display: none;
 }
+
+.cards-container .hide-articles {
+  display: none;
+}
